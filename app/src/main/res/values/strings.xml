@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Endangered Species</string>
+    <string name="imgLarge">Endangered Species Images</string>
+    <string name="eagle">Eagle Picture</string>
+    <string name="elephant">Elephant Picture</string>
+    <string name="gorilla">Gorilla Picture</string>
+    <string name="panda">Panda Picture</string>
+    <string name="panther">Panther Picture</string>
+    <string name="polar">Polar Picture</string>
+    <string name="endangered_species">Endangered Species</string>
+</resources>
